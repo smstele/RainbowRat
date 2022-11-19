@@ -40,6 +40,12 @@ This application consists of 5 main parts:
 - Display a short text message on the target device
 - Vibrate target device with custom timing
 
+<p float="left">
+  <img src="/Preview/Frame 4.png" width="20%" />
+  <img src="/Preview/Frame 5.png" width="20%" />
+  <img src="/Preview/Frame 6.png" width="20%" />
+</p>
+
 **Advanced access:**
 - Access to the main camera and selfie camera
 - Get a screenshot from the target device
