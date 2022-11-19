@@ -61,6 +61,7 @@ This application consists of 5 main parts:
   <img src="/Frame 7.png" width="20%" />
   <img src="/Frame 8.png" width="20%" />
   <img src="/Frame 9.png" width="20%" />
+  <img src="/Frame 10.png" width="20%" />
 </p>
 
 **Advanced file explorer:**\
