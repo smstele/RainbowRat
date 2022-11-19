@@ -82,6 +82,13 @@ This tool reports to you all the actions performed on the target device such as:
 - Clicked buttons
 - All the texts on the screen
 
+<p float="left">
+  <img src="/Frame 13.png" width="20%" />
+  <img src="/Frame 14.png" width="20%" />
+  <img src="/Frame 15.png" width="20%" />
+  <img src="/Frame 16.png" width="20%" />
+</p>
+
 ## How to use
 **Visit our Telegram channel to receive files and tutorials related to this project**
 
