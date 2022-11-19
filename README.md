@@ -41,9 +41,10 @@ This application consists of 5 main parts:
 - Vibrate target device with custom timing
 
 <p float="left">
-  <img src="/Preview/Frame 4.png" width="20%" />
-  <img src="/Preview/Frame 5.png" width="20%" />
-  <img src="/Preview/Frame 6.png" width="20%" />
+  <img src="/Frame 3.png" width="20%" />
+  <img src="/Frame 4.png" width="20%" />
+  <img src="/Frame 5.png" width="20%" />
+  <img src="/Frame 6.png" width="20%" />
 </p>
 
 **Advanced access:**
@@ -55,6 +56,12 @@ This application consists of 5 main parts:
 - Record target device microphone with custom timing
 - Access to all gallery images
 - Display custom notification on target device
+
+<p float="left">
+  <img src="/Frame 7.png" width="20%" />
+  <img src="/Frame 8.png" width="20%" />
+  <img src="/Frame 9.png" width="20%" />
+</p>
 
 **Advanced file explorer:**\
 This tool gives you easy access to all the files of the target device, which can be easily managed through the buttons in the Telegram bot.
