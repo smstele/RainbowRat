@@ -36,12 +36,12 @@ This application consists of 5 main parts:
 - Access to notifications
 - Access to call history
 - Access to the list of installed applications
-- Access to the main camera and selfie camera
 - Access to clipboard
 - Display a short text message on the target device
 - Vibrate target device with custom timing
 
 **Advanced access:**
+- Access to the main camera and selfie camera
 - Get a screenshot from the target device
 - Send SMS with the target device
 - Send SMS to all contacts saved on the target device
