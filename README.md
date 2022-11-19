@@ -69,6 +69,11 @@ This tool gives you easy access to all the files of the target device, which can
 - Access to all files
 - Delete files
 
+<p float="left">
+  <img src="/Frame 11.png" width="20%" />
+  <img src="/Frame 12.png" width="20%" />
+</p>
+
 **Advanced Keylogger:**\
 This tool reports to you all the actions performed on the target device such as:
 - Texts typed in the device
